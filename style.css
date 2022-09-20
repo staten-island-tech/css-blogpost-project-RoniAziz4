@@ -1,14 +1,16 @@
-
-
-.background {
+.background1 {
+    background-image: url(img/sushi.jpg);
+    background-position: 25vw;
+    background-position: right;
+    background-repeat: no-repeat;
     background-color: beige;
     border-radius: 25px;
     border: 2px solid pink;
     padding: 20px;
-    width: 50vw;
-    height: 25vw;
+    width: 96.25vw;
+    height: 50vw;
 }
 .title {
   color: blanchedalmond;
-  font-size: 100px;
+  font-size: 70px;
 }
