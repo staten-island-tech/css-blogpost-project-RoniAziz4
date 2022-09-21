@@ -8,7 +8,7 @@
 .background1 {
     background-image: url(img/sushi.jpg);
     background-position: 25vw;
-    background-position: 1200px;
+    background-position: 1000px;
     background-repeat: no-repeat;
     background-color: beige;
     border-radius: 25px;
@@ -21,7 +21,7 @@
 .background2 {
   background-image: url(img/smoothie.jpg);
   background-position: 25vw;
-  background-position: 1300px;
+  background-position: 1100px;
   background-repeat: no-repeat;
   background-color: beige;
   background-size: 480px;
@@ -36,7 +36,7 @@
 .background3{
   background-image: url(img/chicken-wing.jpg);
   background-position: 25vw;
-  background-position: 1200px;
+  background-position: 1000px;
   background-repeat: no-repeat;
   background-color: beige;
   border-radius: 25px;
