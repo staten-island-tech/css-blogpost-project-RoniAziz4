@@ -1,16 +1,59 @@
+.title {
+  text-align: center;
+  color: blanchedalmond;
+  font-size: 100px;
+  font-family: 'Amatic SC', cursive;
+}
+
 .background1 {
     background-image: url(img/sushi.jpg);
     background-position: 25vw;
-    background-position: right;
+    background-position: 1200px;
     background-repeat: no-repeat;
     background-color: beige;
     border-radius: 25px;
-    border: 2px solid pink;
+    border: 4px solid pink;
     padding: 20px;
     width: 96.25vw;
-    height: 50vw;
+    height: 40vw;
 }
-.title {
-  color: blanchedalmond;
-  font-size: 70px;
+
+.background2 {
+  background-image: url(img/smoothie.jpg);
+  background-position: 25vw;
+  background-position: 1300px;
+  background-repeat: no-repeat;
+  background-color: beige;
+  background-size: 480px;
+  border-radius: 25px;
+  border: 4px solid pink;
+  padding: 20px;
+  width: 96.25vw;
+  height: 40vw;
+  margin-top: 20px;
+}
+
+.background3{
+  background-image: url(img/chicken-wing.jpg);
+  background-position: 25vw;
+  background-position: 1200px;
+  background-repeat: no-repeat;
+  background-color: beige;
+  border-radius: 25px;
+  border: 4px solid pink;
+  padding: 20px;
+  width: 96.25vw;
+  height: 40vw;
+  margin-top: 20px;
+}
+
+.head1 {
+font-size: 100px;
+font-family: 'Amatic SC', cursive;
+text-align: left;
+}
+
+.body {
+text-align: left;
+margin-right: 50vw;
 }
